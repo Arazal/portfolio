@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://arazal.github.io/portfolio",
+  "homepage": "https://arazal.github.io/portfolio/",
   "version": "1.0.0",
   "description": "My portfolio site",
   "main": "index.js",
@@ -19,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/Arazal/portfolio/issues"
   },
-  "homepage": "https://github.com/Arazal/portfolio#readme",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0"
